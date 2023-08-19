@@ -2,4 +2,4 @@
 // WSURL = 'wss://cataso2.omatz.cf';
 // WSURL = 'wss://cataso-omatz.herokuapp.com';
 // WSURL = 'ws://localhost:5000';
-WSURL = 'https://sinkeikunkataso.onrender.com';
+WSURL = 'wss://sinkeikunkataso.onrender.com';
